@@ -1,6 +1,6 @@
 # Rddhima Bora 🌟
 
-Welcome to my personal website! I'm **Rddhima Bora**, a sophomore at AMSA Charter School, Marlborough, Here, you can find more about me, my projects, and the things I love to create. 🚀
+Welcome to my personal website! I'm **Rddhima Bora**, a sophomore at AMSA Charter School, Marlborough (MA). Here, you can find more about me, my projects, and the things I love to create. 🚀
 
 ---
 
