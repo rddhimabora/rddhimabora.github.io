@@ -5,10 +5,10 @@ Welcome to my personal website! I'm **Rddhima Bora**, a sophomore at AMSA Charte
 ---
 
 ## About Me
-👋 Hi! I'm Rddhima Bora.  
-🎓 [Your education details or current role, e.g., Computer Science graduate from XYZ University].  
-💼 Currently working as [Your job title] at [Company Name].  
-💡 Interested in [Your interests or areas of expertise].  
+👋 Hi! I'm Rddhima Bora. 
+🎓 A Sophomore at Advanced Math and Science Charter School, Marlborough (MA).   
+💼 Currently learning ML methods (mostly unsupervised) to classify data sets into groups for further anaysis.     
+💡 Interested in Art, Math, and Computer Programming (JAVA/Python).   
 
 ---
 
@@ -40,8 +40,6 @@ Tech Stack: [Tech 1], [Tech 2], [Tech 3].
 ## Get In Touch
 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
 🌐 Portfolio: [Your Website or Portfolio Link](#)  
-💼 LinkedIn: [Your LinkedIn Profile](#)  
-🐦 Twitter: [Your Twitter Handle](#)  
 📂 GitHub: [Your GitHub Profile](#)  
 
 ---
